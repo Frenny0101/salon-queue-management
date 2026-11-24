@@ -6,7 +6,7 @@ The system allows customers to join a queue, receive a token, and check their st
 
 ## Live Deployment
 
-- **Live website:** [Open Salon Queue Management](https://20261208itpvibecoding.vercel.app/)
+- **Live website:** [https://202612087itpvibecoding.vercel.app/](https://202612087itpvibecoding.vercel.app/)
 - **GitHub repository:** [Frenny0101/salon-queue-management](https://github.com/Frenny0101/salon-queue-management)
 
 > If your Vercel deployment URL changes, update the live website link above.
